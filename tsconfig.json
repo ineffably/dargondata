@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+      "module": "CommonJS",
+      "target": "es5",
+      "lib": [
+        "es2019",
+        "DOM"
+      ],
+      "noImplicitAny": false,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "outDir": "build/lib",
+      "sourceMap": true,
+      "inlineSources": true,
+      "jsx": "react",
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true,
+      "resolveJsonModule": true,
+      "esModuleInterop": true
+  },
+  "include": [
+      "src/**/*",
+      "index.ts"
+, "index.ts", "actions.ts"  ],
+  "exclude": [
+      "node_modules",
+      "build"
+  ]
+}
