@@ -48,5 +48,12 @@ export const zipfiles = [
     set: 'set5',
     url: 'https://dd.b.pvp.net/latest/set5-lite-en_us.zip',
     full: 'https://dd.b.pvp.net/latest/set5-en_us.zip'
+  },
+  {
+    name: 'set6-lite-en_us',
+    set: 'set6',
+    url: 'https://dd.b.pvp.net/latest/set6-lite-en_us.zip',
+    full: 'https://dd.b.pvp.net/latest/set6-en_us.zip'
   }
+  
 ];

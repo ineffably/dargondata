@@ -58,12 +58,6 @@ export const downloadCardSets = async (zipDestPath = '') => {
   })
 
   return Promise.all(entries.map(async ({ map, showProgress, bar }) => {
-    // console.log(map);
-    // return Promise.resolve(map);
-    // const { destination, filename  } = map;
-    // const localPath = path.resolve(__dirname, destination, filename);
-    // console.log(localPath, destination);
-  
     return fileDownload(map, showProgress, bar);
   }))
 }
