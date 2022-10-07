@@ -9,16 +9,16 @@ export interface UrlFileMap {
 };
 
 export const fileDownload = async (
-  { url, destination, filename }: UrlFileMap, 
-  onProgress: (number,any,string) => void,
+  { url, destination, filename }: UrlFileMap,
+  onProgress: (number, any, string) => void,
   bar?: any) => {
 
-  if(!fs.existsSync(path.resolve(__dirname, destination))) {
+  if (!fs.existsSync(path.resolve(__dirname, destination))) {
     fs.mkdirSync(path.resolve(__dirname, destination), { recursive: true });
   }
-    
+
   const localPath = path.resolve(__dirname, destination, filename);
-  
+
   return new Promise((resolve, reject) => {
     if (fs.existsSync(localPath)) {
       onProgress(1, bar, filename);
@@ -45,7 +45,7 @@ export const fileDownload = async (
       }
       else {
         resp.destroy
-        return reject({message: 'download failed', url, localPath});
+        return reject({ message: 'download failed', url, localPath });
       }
     });
   })

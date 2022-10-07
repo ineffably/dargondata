@@ -1,6 +1,6 @@
 import AdmZip from 'adm-zip';
-import { zipfiles, sets } from "./config";
-import clientProgress, { Presets } from 'cli-progress';
+import { zipfiles } from "./config";
+import clientProgress from 'cli-progress';
 import { fileDownload, UrlFileMap } from "./fileDownload";
 import fs from 'fs';
 import { exec } from 'child_process';
@@ -23,7 +23,6 @@ export const downloadCardSets = async (zipDestPath = '') => {
     };
   });
 
-  // console.log({ zipDestPath })
   if (!fs.existsSync(zipDestPath)) {
     fs.mkdirSync(zipDestPath);
   }
@@ -51,7 +50,7 @@ export const downloadCardSets = async (zipDestPath = '') => {
   };
 
   const entries = downloadEntries.map(map => {
-    const { filename, destination } = map;
+    const { filename } = map;
     const bar = multibar.create(100, 0);
     bar.start(100, 0, { filename });
     return { map, showProgress, bar } as FileEntry;
@@ -66,12 +65,80 @@ export const getImagePathForSet = (folder = '', set = 'set1', lang = 'en_us') =>
   return `${path.resolve(folder)}/${set}/${lang}/img/cards/`;
 }
 
-export const convertAllToWebp = (dataPath = '') => {
+export const convertSetToWebp = async (sourcePath, convertProgress) => {
+  const target = sourcePath.substr(sourcePath.length - 1) === '/' ? sourcePath : sourcePath + '/';
+  const dir = fs.readdirSync(target);
+  const { bar } = convertProgress
+
+  const multibar = bar.create(100, 0);
+  multibar.start(100, 0, { filename: target });
+
+  for (let i = 0; i < dir.length; i++) {
+    const file = dir[i];
+    if (!file.endsWith('.png')) continue;
+
+    const sourceFile = `${target}${file}`;
+    const targetFile = `${target}${file.replace('.png', '.webp')}`;
+
+    try {
+      fs.rmSync(targetFile);
+    } catch (err) { }
+
+    const command = `cwebp -q 80 ${sourceFile} -o ${targetFile}`;
+    const exectIt = async () => {
+      return new Promise((resolve, reject) => {
+        exec(command, (error, stdout, stderr) => {
+          if (error) {
+            console.error(`error: ${error.message}`);
+            return reject(`error: ${error.message}`);
+          }
+          if (stderr) {
+            return resolve(`${stderr}`)
+          }
+          return resolve(stdout);
+        })
+      })
+    }
+
+    // console.log(`:==> exec ${command}`);
+    const commandResult = await exectIt();
+    convertProgress(i / dir.length, multibar, target);
+    // console.log(`${[i / dir.length, target]}`)
+    // console.log(commandResult);
+  }
+}
+
+export const convertAllToWebp = async (dataPath = '') => {
   const lang = 'en_us';
-  zipfiles.filter(file => file.name.startsWith('set')).forEach(({ name }) => {
+
+  const convertMultibar = new clientProgress.MultiBar({
+    clearOnComplete: false,
+    hideCursor: true,
+    format: `[{bar}] {percentage}% | {filename}`
+  }, clientProgress.Presets.shades_grey);
+
+  const pngFilesCompleted = {} as Record<string, boolean>;
+  const convertProgress = (progress: number, bar, filename) => {
+    const value = Math.round(progress * 100);
+    bar.update(value, { filename });
+    if (value >= 100) {
+      pngFilesCompleted[filename] = true;
+      if (Object.values(pngFilesCompleted).every(value => value)) {
+        bar.stop();
+      }
+    }
+    else {
+      pngFilesCompleted[filename] = false;
+    }
+  };
+  convertProgress.bar = convertMultibar;
+
+  console.log(':==> Converting all images from .png to .webp. this might take some time.');
+
+  return await Promise.all(zipfiles.filter(file => file.name.startsWith('set')).map(async ({ name }) => {
     const zipExtractPath = path.resolve(`${dataPath}${name}/${lang}/img/cards/`);
-    convertSetToWebp(zipExtractPath);
-  })
+    return await convertSetToWebp(zipExtractPath, convertProgress);
+  }))
 }
 
 export const removeAllImages = (dataPath, extension = '.png') => {
@@ -79,7 +146,7 @@ export const removeAllImages = (dataPath, extension = '.png') => {
   const paths = dir.filter(
     f => f.startsWith('set')).map(
       setFolder => getImagePathForSet(dataPath, setFolder))
-  
+
   paths.forEach(path => {
     const dir = fs.readdirSync(path);
     const selectedFiles = dir.filter(file => file.endsWith(extension));
@@ -90,31 +157,6 @@ export const removeAllImages = (dataPath, extension = '.png') => {
   })
 }
 
-export const convertSetToWebp = async (sourcePath) => {
-  const target = sourcePath.substr(sourcePath.length - 1) === '/' ? sourcePath : sourcePath + '/';
-  const dir = fs.readdirSync(target);
-  return await Promise.all(dir.map(async file => {
-    if (!file.endsWith('.png')) return;
-    const sourceFile = target + file;
-    const targetFile = target + file.replace('.png', '.webp')
-    const command = `cwebp -q 80 ${sourceFile} -o ${targetFile}`;
-    return new Promise((resolve, reject) => {
-      exec(command, (error, stdout, stderr) => {
-        if (error) {
-          console.error(`error: ${error.message}`);
-          return reject(`error: ${error.message}`)
-        }
-        if (stderr) {
-          console.error(`stderr: ${stderr}`);
-          return reject(`stderr: ${stderr}`)
-        }
-        console.log(stdout);
-      })
-      return resolve(sourcePath);
-    })
-  }))
-  
-}
 
 export const extractZips = (zipSourcePath = '', extractFolder = '') => {
   zipfiles.forEach(fileinfo => {

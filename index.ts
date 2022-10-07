@@ -9,7 +9,7 @@ const main = async () => {
 
   extractZips(zipsPath, dataPath);
   
-  convertAllToWebp(dataPath);
+  await convertAllToWebp(dataPath);
 
   removeAllImages(dataPath)
 
