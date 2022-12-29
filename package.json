@@ -4,7 +4,8 @@
   "description": "It's an auotmated Legends of Runeterra card data and image downloader, zip extractor and image compressor.",
   "main": "index.ts",
   "scripts": {
-    "download": "ts-node ./index.ts"
+    "download": "ts-node ./index.ts",
+    "clean": "rm -rf ./zips && rm -rf ./data"
   },
   "keywords": [],
   "author": "",
