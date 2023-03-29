@@ -45,7 +45,17 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -87,7 +97,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -133,7 +151,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -181,7 +207,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -226,7 +260,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -268,7 +312,15 @@
     "supertype": "",
     "type": "Ability",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -313,7 +365,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -365,7 +425,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -407,7 +475,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -451,7 +529,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -493,7 +579,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -533,7 +627,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -573,7 +673,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -613,7 +719,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -655,7 +767,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -697,7 +817,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -737,7 +863,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -779,7 +915,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -817,7 +963,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -859,7 +1013,15 @@
     "supertype": "",
     "type": "Ability",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -901,7 +1063,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -941,7 +1109,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -979,7 +1155,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1021,7 +1207,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1067,7 +1259,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1111,7 +1309,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1161,7 +1369,17 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1209,7 +1427,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1259,7 +1485,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1304,7 +1538,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1348,7 +1590,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1393,7 +1643,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1435,7 +1695,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1479,7 +1745,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1523,7 +1799,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1567,7 +1853,13 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1614,7 +1906,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1658,7 +1956,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1702,7 +2008,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1744,7 +2058,15 @@
     "supertype": "",
     "type": "Ability",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1790,7 +2112,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1830,7 +2162,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1872,7 +2210,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1916,7 +2260,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -1944,8 +2296,8 @@
     "health": 2,
     "description": "When I'm summoned or <link=vocab.RoundStart><style=Vocab>Round Start</style></link>: If you have the attack token, create a <link=card.create><style=AssociatedCard>Flawless Duet</style></link> in hand.",
     "descriptionRaw": "When I'm summoned or Round Start: If you have the attack token, create a Flawless Duet in hand.",
-    "levelupDescription": "14+ allies have attacked.<style=Variable></style>",
-    "levelupDescriptionRaw": "14+ allies have attacked.",
+    "levelupDescription": "You've attacked with 14+ allies.<style=Variable></style>",
+    "levelupDescriptionRaw": "You've attacked with 14+ allies.",
     "flavorText": "\"Once we studied art and beauty, and our hearts soared. But when they broke our walls and spilled our blood, we fell back down to earth...\"",
     "artistName": "SIXMOREVODKA",
     "name": "Irelia",
@@ -1966,7 +2318,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2008,7 +2368,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2054,7 +2420,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2102,7 +2476,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2152,7 +2534,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2198,7 +2588,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2238,7 +2636,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2282,7 +2688,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2324,7 +2736,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2366,7 +2788,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2410,7 +2842,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2448,7 +2886,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2490,7 +2936,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2535,7 +2989,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2577,7 +3039,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2619,7 +3089,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2661,7 +3139,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2705,7 +3191,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2749,7 +3243,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2789,7 +3291,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2831,7 +3339,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2851,8 +3367,8 @@
     "attack": 2,
     "cost": 4,
     "health": 6,
-    "description": "When you summon an ally, give me +2|+0 this round.",
-    "descriptionRaw": "When you summon an ally, give me +2|+0 this round.",
+    "description": "When you summon another ally, give me +2|+0 this round.",
+    "descriptionRaw": "When you summon another ally, give me +2|+0 this round.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "My dearest Kay, \nThey arrived this morning in a line of ships that broke the horizon and blotted out the sunrise. Their machines set fire to the Silver Plains, and now a thick smoke crawls through the summer air. We can stand by no longer. Rake or shovel, scythe or sword, today we must go to meet our destiny. \nKnow that I love you and our home more than I have words to write.\n- Charred letter\n",
@@ -2869,7 +3385,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2911,7 +3437,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2953,7 +3487,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -2991,7 +3531,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3033,7 +3581,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3075,7 +3631,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3117,7 +3681,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3164,7 +3736,17 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3211,7 +3793,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3260,7 +3850,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3304,7 +3902,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3345,7 +3951,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3390,7 +4004,15 @@
     "supertype": "",
     "type": "Ability",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3432,7 +4054,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3472,7 +4100,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3516,7 +4154,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3560,7 +4208,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3606,7 +4262,17 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3647,7 +4313,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3689,7 +4363,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3735,7 +4417,17 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3773,7 +4465,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3817,7 +4517,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3843,8 +4551,8 @@
     "health": 4,
     "description": "<link=vocab.Play><style=Vocab>Play</style></link>: Create 4 <link=card.create><style=AssociatedCard>Time Bombs</style></link> in your deck, then <link=vocab.Predict><style=Vocab>Predict</style></link>.",
     "descriptionRaw": "Play: Create 4 Time Bombs in your deck, then Predict.",
-    "levelupDescription": "I've seen you destroy 2 allied <link=card.create><style=AssociatedCard>Time Bombs</style></link>.<style=Variable></style>",
-    "levelupDescriptionRaw": "I've seen you destroy 2 allied Time Bombs.",
+    "levelupDescription": "I've seen you destroy 2+ allied <link=card.create><style=AssociatedCard>Time Bombs</style></link>.<style=Variable></style>",
+    "levelupDescriptionRaw": "I've seen you destroy 2+ allied Time Bombs.",
     "flavorText": "Over many years, Zilean established a network of promising young mages from different times, all of whom were capable of seeing out his life's work should the unthinkable happen. Although a kind and encouraging mentor, deep sorrow creased his brow when he sought solitude, and there was a weariness in his eyes that only someone who has lived multiple lifetimes could hope to comprehend.",
     "artistName": "SIXMOREVODKA",
     "name": "Zilean",
@@ -3859,7 +4567,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3905,7 +4621,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3950,7 +4674,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -3996,7 +4728,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4038,7 +4778,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4080,7 +4828,17 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4122,7 +4880,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4166,7 +4932,15 @@
     "supertype": "",
     "type": "Ability",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4211,7 +4985,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4249,7 +5031,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4295,7 +5087,17 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4342,7 +5144,17 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4388,7 +5200,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4415,8 +5235,8 @@
     "attack": 2,
     "cost": 3,
     "health": 6,
-    "description": "When allies attack, summon an attacking <link=card.summon><style=AssociatedCard>Sand Soldier</style></link>.\r\nWhen you summon an ally, give us both +1|+0 this round.",
-    "descriptionRaw": "When allies attack, summon an attacking Sand Soldier.\r\nWhen you summon an ally, give us both +1|+0 this round.",
+    "description": "When allies attack, summon an attacking <link=card.summon><style=AssociatedCard>Sand Soldier</style></link>.\r\nWhen you summon another ally, give us both +1|+0 this round.",
+    "descriptionRaw": "When allies attack, summon an attacking Sand Soldier.\r\nWhen you summon another ally, give us both +1|+0 this round.",
     "levelupDescription": "You've <link=vocab.SunDiscRestore><style=Vocab>restored the Sun Disc</style></link>.",
     "levelupDescriptionRaw": "You've restored the Sun Disc.",
     "flavorText": "\"Short of fulfilling his destiny, Azir's lifelong friend - and newly named brother - hatefully cast him off the dais. In that fateful moment Shurima was cursed, doomed to ruin for thousands of years to follow.\" - Scribe Kah'nir, History of the Ascended Host",
@@ -4435,7 +5255,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4477,7 +5305,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4517,7 +5353,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4564,7 +5408,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4608,7 +5460,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4650,7 +5510,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4692,7 +5560,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4734,7 +5610,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4776,7 +5660,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4818,7 +5710,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4860,7 +5760,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4905,7 +5813,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4947,7 +5863,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -4985,7 +5909,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5038,7 +5970,17 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5083,7 +6025,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5133,7 +6083,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5181,7 +6139,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5231,7 +6197,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5279,7 +6253,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5323,7 +6305,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5367,7 +6357,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5411,7 +6409,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5459,7 +6465,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5505,7 +6519,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5549,7 +6571,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5593,7 +6623,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5637,7 +6675,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5687,7 +6731,17 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5736,7 +6790,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5786,7 +6848,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5832,7 +6902,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5874,7 +6952,15 @@
     "supertype": "",
     "type": "Ability",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5918,7 +7004,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -5960,7 +7054,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6002,7 +7102,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6046,7 +7154,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6088,7 +7206,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6130,7 +7256,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6170,7 +7304,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6208,7 +7352,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6249,7 +7399,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6291,7 +7451,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6333,7 +7503,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6375,7 +7553,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6419,7 +7605,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6463,7 +7657,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6509,7 +7711,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6549,7 +7759,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6593,7 +7811,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6637,7 +7863,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6681,7 +7915,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6725,7 +7967,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6769,7 +8019,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6813,7 +8071,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6857,7 +8123,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6901,7 +8175,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6945,7 +8227,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -6989,7 +8279,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7036,7 +8334,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7074,7 +8380,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7116,7 +8430,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7158,7 +8482,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7200,7 +8532,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7242,7 +8582,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7286,7 +8634,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7330,7 +8686,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7370,7 +8734,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7412,7 +8784,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7454,7 +8834,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7496,7 +8884,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7538,7 +8934,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7582,7 +8984,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7624,7 +9034,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7668,7 +9086,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7710,7 +9136,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7750,7 +9186,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7792,7 +9236,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7836,7 +9290,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7878,7 +9338,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7905,8 +9373,8 @@
     "health": 2,
     "description": "I have +1|+1 for each unit you've <link=vocab.Slay><style=Vocab>slain</style></link> this game. <style=Variable></style>",
     "descriptionRaw": "I have +1|+1 for each unit you've slain this game. ",
-    "levelupDescription": "I've <link=vocab.Strike><style=Vocab>struck</style></link> for 10+ damage.",
-    "levelupDescriptionRaw": "I've struck for 10+ damage.",
+    "levelupDescription": "I've <link=vocab.Strike><style=Vocab>struck</style></link> for 10+ damage in one <link=vocab.Strike><style=Vocab>strike</style></link>.",
+    "levelupDescriptionRaw": "I've struck for 10+ damage in one strike.",
     "flavorText": "\"Nasus' newly won blessing allowed him countless lifetimes to spend in study and contemplation over the nature of life and death. But this same extended lifespan would, after the fall of Shurima, also prove to be his curse.\" - Scribe Kah'nir, History of the Ascended Host",
     "artistName": "SIXMOREVODKA",
     "name": "Nasus",
@@ -7927,7 +9395,17 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -7971,7 +9449,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8011,7 +9495,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8049,7 +9543,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8087,7 +9591,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8133,7 +9647,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8177,7 +9699,15 @@
     "supertype": "",
     "type": "Ability",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8219,7 +9749,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8263,7 +9799,13 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8309,7 +9851,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8351,7 +9901,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8389,7 +9947,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8431,7 +9997,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8473,7 +10045,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8511,7 +10093,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8557,7 +10147,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8609,7 +10207,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8662,7 +10268,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8704,7 +10318,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8742,7 +10364,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8782,7 +10412,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8827,7 +10467,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8874,7 +10522,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8916,7 +10572,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -8958,7 +10622,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9000,7 +10674,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9038,7 +10720,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9082,7 +10774,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9126,7 +10826,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9164,7 +10874,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9202,7 +10922,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9240,7 +10968,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9282,7 +11020,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9326,7 +11072,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9364,7 +11118,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9408,7 +11170,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9450,7 +11220,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9492,7 +11270,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9536,7 +11322,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9578,7 +11372,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9624,7 +11426,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9666,7 +11478,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9708,7 +11526,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9750,7 +11578,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9792,7 +11628,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9834,7 +11678,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9878,7 +11730,15 @@
     "supertype": "",
     "type": "Ability",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9920,7 +11780,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -9964,7 +11830,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10006,7 +11880,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10046,7 +11926,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10084,7 +11972,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10125,7 +12021,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10169,7 +12073,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10213,7 +12125,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10255,7 +12177,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10297,7 +12227,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10347,7 +12287,17 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10387,7 +12337,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10439,7 +12397,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10463,8 +12429,8 @@
     "attack": 0,
     "cost": 5,
     "health": 0,
-    "description": "<link=vocab.Obliterate><style=Vocab>Obliterate</style></link> a unit and summon a <link=card.create><style=AssociatedCard>Frozen Tomb</style></link> in its place.\r\nCreate a <link=card.level1><style=AssociatedCard>Lissandra</style></link> in your deck.",
-    "descriptionRaw": "Obliterate a unit and summon a Frozen Tomb in its place.\r\nCreate a Lissandra in your deck.",
+    "description": "<link=vocab.Obliterate><style=Vocab>Obliterate</style></link> a unit to summon a <link=card.create><style=AssociatedCard>Frozen Tomb</style></link> in place with the unit stored inside.\r\nCreate a <link=card.level1><style=AssociatedCard>Lissandra</style></link> in your deck.",
+    "descriptionRaw": "Obliterate a unit to summon a Frozen Tomb in place with the unit stored inside.\r\nCreate a Lissandra in your deck.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"Kneel, or freeze.\" - Lissandra",
@@ -10485,7 +12451,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10530,7 +12504,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10572,7 +12556,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10618,7 +12610,17 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10662,7 +12664,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10706,7 +12716,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10748,7 +12766,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10792,7 +12818,13 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10834,7 +12866,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10854,8 +12896,8 @@
     "attack": 2,
     "cost": 4,
     "health": 5,
-    "description": "When I'm summoned, grant all ally Poros a random keyword.",
-    "descriptionRaw": "When I'm summoned, grant all ally Poros a random keyword.",
+    "description": "When I'm summoned, grant Poro allies a random keyword.",
+    "descriptionRaw": "When I'm summoned, grant Poro allies a random keyword.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "There is one figure said to be legendary to all porokind. It is said that, as he travels, he bestows his deserving furry friends with all manner of magical forged gifts.",
@@ -10874,7 +12916,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10914,7 +12964,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -10934,8 +12992,8 @@
     "attack": 5,
     "cost": 8,
     "health": 5,
-    "description": "<link=vocab.RoundStart><style=Vocab>Round Start</style></link>: If you have 2+ Yetis, summon me from hand and create a copy of me in your deck.\r\n<link=vocab.Play><style=Vocab>Play</style></link>: Draw a Yeti.",
-    "descriptionRaw": "Round Start: If you have 2+ Yetis, summon me from hand and create a copy of me in your deck.\r\nPlay: Draw a Yeti.",
+    "description": "While I'm in hand, <link=vocab.RoundStart><style=Vocab>Round Start</style></link>: If you have 2+ Yetis, summon me and create a copy of me in your deck.\r\n<link=vocab.Play><style=Vocab>Play</style></link>: Draw a Yeti.",
+    "descriptionRaw": "While I'm in hand, Round Start: If you have 2+ Yetis, summon me and create a copy of me in your deck.\r\nPlay: Draw a Yeti.",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"...and they're sneaky, too! Last time I was out there, I had found shelter in a cave, only to find yearlings in there, fast asleep. Tried to keep my distance, but then one of the big 'uns returned, tall as a mountain, and covered in ice! Now you listen to me, because...\" - Babbling Bjerg",
@@ -10954,7 +13012,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11001,7 +13065,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11043,7 +13115,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11083,7 +13161,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11125,7 +13211,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11165,7 +13259,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11209,7 +13309,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11251,7 +13359,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11289,7 +13407,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11327,7 +13451,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11365,7 +13497,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11407,7 +13545,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11453,7 +13597,17 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11498,7 +13652,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11540,7 +13702,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11564,8 +13734,8 @@
     "attack": 6,
     "cost": 3,
     "health": 3,
-    "description": "Each time I see you deal 15+ damage, create a <link=card.create><style=AssociatedCard>Mirror Image</style></link> in hand. If you already have one, reduce its cost by 1 instead. <style=Variable></style>",
-    "descriptionRaw": "Each time I see you deal 15+ damage, create a Mirror Image in hand. If you already have one, reduce its cost by 1 instead. ",
+    "description": "Each time you deal 15+ damage, create a <link=card.create><style=AssociatedCard>Mirror Image</style></link> in hand. If you already have one, reduce its cost by 1 instead. <style=Variable></style>",
+    "descriptionRaw": "Each time you deal 15+ damage, create a Mirror Image in hand. If you already have one, reduce its cost by 1 instead. ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "\"...we all want the same thing.\"",
@@ -11586,7 +13756,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11626,7 +13804,13 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11668,7 +13852,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11706,7 +13898,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11748,7 +13948,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11792,7 +14000,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11834,7 +14052,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11859,8 +14087,8 @@
     "health": 3,
     "description": "Each round, the first time you <link=vocab.Slay><style=Vocab>slay</style></link> a unit, I mark the <link=keyword.Weakest><style=Keyword>weakest</style></link> enemy. \r\n<link=vocab.RoundEnd><style=Vocab>Round End</style></link>: Kill units with my mark.",
     "descriptionRaw": "Each round, the first time you slay a unit, I mark the weakest enemy. \r\nRound End: Kill units with my mark.",
-    "levelupDescription": "I've seen you <link=vocab.Slay><style=Vocab>slay</style></link> 2 units with my mark.<style=Variable></style>",
-    "levelupDescriptionRaw": "I've seen you slay 2 units with my mark.",
+    "levelupDescription": "I've seen you <link=vocab.Slay><style=Vocab>slay</style></link> 2+ units with my mark.<style=Variable></style>",
+    "levelupDescriptionRaw": "I've seen you slay 2+ units with my mark.",
     "flavorText": "Once there was a lonely man\nWho split himself in twain\nFrom one came two, born anew\nNever alone again.",
     "artistName": "SIXMOREVODKA",
     "name": "Kindred",
@@ -11879,7 +14107,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11924,7 +14160,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -11969,7 +14213,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12015,7 +14267,17 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12060,7 +14322,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12106,7 +14376,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12144,7 +14422,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12188,7 +14476,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12230,7 +14526,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12252,8 +14554,8 @@
     "attack": 0,
     "cost": 3,
     "health": 0,
-    "description": "Once I've seen 3 <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>Fearsome</style></link> or <link=keyword.Nightfall><style=Keyword>Nightfall</style></link> allies attack, destroy me to summon <link=card.summon><style=AssociatedCard>Vilemaw</style></link>. <style=Variable></style>",
-    "descriptionRaw": "Once I've seen 3 Fearsome or Nightfall allies attack, destroy me to summon Vilemaw. ",
+    "description": "Once I've seen 3+ <link=keyword.Fearsome><sprite name=Fearsome><style=Keyword>Fearsome</style></link> or <link=keyword.Nightfall><style=Keyword>Nightfall</style></link> allies attack, destroy me to summon <link=card.summon><style=AssociatedCard>Vilemaw</style></link>. <style=Variable></style>",
+    "descriptionRaw": "Once I've seen 3+ Fearsome or Nightfall allies attack, destroy me to summon Vilemaw. ",
     "levelupDescription": "",
     "levelupDescriptionRaw": "",
     "flavorText": "Its altars may lie dormant, its paths may seem untrod,\nBut in the dark still skitters, the beast that fools forgot.",
@@ -12274,7 +14576,13 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12320,7 +14628,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12364,7 +14680,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12406,7 +14730,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12444,7 +14776,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12484,7 +14824,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12526,7 +14874,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12566,7 +14922,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12608,7 +14974,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12650,7 +15022,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12694,7 +15072,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12736,7 +15122,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12778,7 +15174,15 @@
     "supertype": "",
     "type": "Ability",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12818,7 +15222,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12860,7 +15272,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12902,7 +15324,15 @@
     "supertype": "",
     "type": "Ability",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12946,7 +15376,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -12988,7 +15428,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13032,7 +15480,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13072,7 +15528,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13110,7 +15576,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13156,7 +15630,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13200,7 +15682,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13247,7 +15737,17 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13294,7 +15794,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13338,7 +15846,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13383,7 +15899,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13425,7 +15949,15 @@
     "supertype": "",
     "type": "Ability",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13469,7 +16001,13 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13507,7 +16045,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13553,7 +16101,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13597,7 +16153,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13641,7 +16205,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13679,7 +16251,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13723,7 +16303,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13763,7 +16353,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13805,7 +16405,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13849,7 +16457,15 @@
     "supertype": "",
     "type": "Landmark",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13889,7 +16505,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13933,7 +16557,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -13975,7 +16605,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14017,7 +16655,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14059,7 +16703,15 @@
     "supertype": "",
     "type": "Ability",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14101,7 +16753,15 @@
     "supertype": "",
     "type": "Ability",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14143,7 +16803,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14187,7 +16857,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14225,7 +16903,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14265,7 +16951,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14307,7 +17003,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14349,7 +17053,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14391,7 +17103,13 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14433,7 +17151,17 @@
     "supertype": "",
     "type": "Spell",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14475,7 +17203,15 @@
     "supertype": "",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14522,7 +17258,17 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14570,7 +17316,15 @@
     "supertype": "Champion",
     "type": "Unit",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14614,7 +17368,15 @@
     "supertype": "Champion",
     "type": "Spell",
     "collectible": false,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14658,7 +17420,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14696,7 +17466,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14742,7 +17522,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14786,7 +17574,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14824,7 +17620,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14872,7 +17678,15 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14912,7 +17726,17 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Commons Only",
+      "Eternal",
+      "Standard"
+    ],
+    "formatRefs": [
+      "client_Formats_CommonsOnly_name",
+      "client_Formats_Eternal_name",
+      "client_Formats_Standard_name"
+    ]
   },
   {
     "associatedCards": [],
@@ -14954,6 +17778,12 @@
     "supertype": "",
     "type": "Unit",
     "collectible": true,
-    "set": "Set4"
+    "set": "Set4",
+    "formats": [
+      "Eternal"
+    ],
+    "formatRefs": [
+      "client_Formats_Eternal_name"
+    ]
   }
 ]

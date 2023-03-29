@@ -12,7 +12,8 @@ export const sets = [
   'set4',
   'set5',
   'set6',
-  'set6cde'
+  'set6cde',
+  'set7'
 ]
 
 export const zipfiles = [
@@ -61,6 +62,11 @@ export const zipfiles = [
     name: 'set6cde-lite-en_us',
     url: 'https://dd.b.pvp.net/latest/set6cde-lite-en_us.zip',
     full: 'https://dd.b.pvp.net/latest/set6cde-en_us.zip'
+  },
+  {
+    name: 'set7-lite-en_us',
+    url: 'https://dd.b.pvp.net/latest/set7-lite-en_us.zip',
+    full: 'https://dd.b.pvp.net/latest/set7-en_us.zip'
   }
   
 ];

@@ -308,7 +308,7 @@
       "nameRef": "Demacia"
     },
     {
-      "description": "A champion levels up once this condition is met, even in hand or deck.",
+      "description": "A champion in play levels up everywhere once this condition is met. Some champions must be in play to see their condition progress.",
       "name": "Level Up",
       "nameRef": "LevelUp"
     },
@@ -548,6 +548,11 @@
       "nameRef": "Formidable"
     },
     {
+      "description": "Can only be blocked by enemies with 3 or more Health.",
+      "name": "Brash",
+      "nameRef": "Brash"
+    },
+    {
       "description": "Can choose which enemy unit blocks.",
       "name": "Challenger",
       "nameRef": "Challenger"
@@ -752,6 +757,11 @@
       "nameRef": "Set4"
     },
     {
+      "iconAbsolutePath": "http://dd.b.pvp.net/4_3_0/core/en_us/img/sets/set7_crispmip.png",
+      "name": "Glory in Navori",
+      "nameRef": "Set7"
+    },
+    {
       "iconAbsolutePath": "http://dd.b.pvp.net/4_3_0/core/en_us/img/sets/setevent_crispmip.png",
       "name": "Events",
       "nameRef": "SetEvent"
@@ -763,6 +773,21 @@
     }
   ],
   "formats": [
+    {
+      "iconAbsolutePath": "http://dd.b.pvp.net/4_3_0/core/en_us/img/formats/queue_select_standard_toggle_active.png",
+      "name": "Standard",
+      "nameRef": "client_Formats_Standard_name"
+    },
+    {
+      "iconAbsolutePath": null,
+      "name": "Singleton",
+      "nameRef": "client_Deckbuilder_RulesFilters_Singleton"
+    },
+    {
+      "iconAbsolutePath": "http://dd.b.pvp.net/4_3_0/core/en_us/img/formats/queue_select_eternal_toggle_active.png",
+      "name": "Eternal",
+      "nameRef": "client_Formats_Eternal_name"
+    },
     {
       "iconAbsolutePath": null,
       "name": "Commons Only",
