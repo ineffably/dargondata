@@ -5,9 +5,9 @@ const [nodeExec, file, zipsPath = './zips/', dataPath = './data/'] = argv;
 
 const main = async () => {
   
-  await downloadCardSets(zipsPath);
+  // await downloadCardSets(zipsPath);
 
-  extractZips(zipsPath, dataPath);
+  // extractZips(zipsPath, dataPath);
   
   await convertAllToWebp(dataPath);
 

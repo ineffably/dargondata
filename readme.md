@@ -11,6 +11,8 @@ It allows me to easily keep the data for my Runeterra utilities updated with som
 - converts images to webp using cwebp
 - remove old images
 
+<img src='./png2webp.png'>
+
 ## usage
 
 ```
@@ -23,4 +25,5 @@ npm run download
 this uses cwebp to convert pnt to webp, although it's added as a dependency, you may have to install it globally. 
 
 https://developers.google.com/speed/webp/docs/cwebp
+
 

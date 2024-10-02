@@ -134,7 +134,9 @@ export const convertAllToWebp = async (dataPath = '') => {
   convertProgress.bar = convertMultibar;
 
   console.log(':==> Converting all images from .png to .webp. this might take some time.');
+  // https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.4.0-windows-x64.zip
 
+  
   return await Promise.all(zipfiles.filter(file => file.name.startsWith('set')).map(async ({ name }) => {
     const zipExtractPath = path.resolve(`${dataPath}${name}/${lang}/img/cards/`);
     return await convertSetToWebp(zipExtractPath, convertProgress);
