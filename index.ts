@@ -1,17 +1,19 @@
-import { downloadCardSets, extractZips, convertAllToWebp, removeAllImages } from './actions';
-
+import {  consolidateDataFiles, convertAllPngsToWebp, downloadMissingCardSetBundles, extractZips, findAllJsonAssets, findAllPngAssets, folderTree } from './actions';
+import { dataPath } from './config';
 const { argv } = process;
-const [nodeExec, file, zipsPath = './zips/', dataPath = './data/'] = argv;
 
 const main = async () => {
+  console.log(':==> Downloading all missing card set bundles.');
+  await downloadMissingCardSetBundles();
   
-  // await downloadCardSets(zipsPath);
+  console.log(':==> Extracting all card set bundles.');
+  extractZips();
 
-  // extractZips(zipsPath, dataPath);
-  
-  await convertAllToWebp(dataPath);
+  console.log(':==> converting all pngs to webp.');
+  await convertAllPngsToWebp();
 
-  removeAllImages(dataPath)
+  console.log(':==> consolidating data files');
+  await consolidateDataFiles();
 
 }
 main();

@@ -20,10 +20,15 @@ npm i
 npm run download
 ```
 
-## note
+## cwebp
 
-this uses cwebp to convert pnt to webp, although it's added as a dependency, you may have to install it globally. 
+this uses cwebp to convert png to webp, although it's added as a dependency, you may have to install it globally.
 
+download
+https://developers.google.com/speed/webp/download
+
+docs:
 https://developers.google.com/speed/webp/docs/cwebp
+
 
 

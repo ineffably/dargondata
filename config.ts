@@ -1,22 +1,25 @@
+export const zipPath = 'zips/';
+export const imagePath = 'images/';
+export const dataPath = 'data/';
+export const jsonPath = 'data/_json/';
+export const binPath = 'bin/'; // you can place cwebp binary here
+
+export const dataPathForSet = (folder = '', set = 'set1', lang = 'en_us') => `${dataPath}${folder}${set}/${lang}/`;
+export const getImagePathForSet = (folder = '', set = 'set1', lang = 'en_us') => `${imagePath}${folder}${set}/${lang}/`;
 
 export interface ZipEntry {
   name: string;
   set: string;
   url: string;
+  full?: string;
 }
 
-export const sets = [
-  'set1',
-  'set2',
-  'set3',
-  'set4',
-  'set5',
-  'set6',
-  'set6cde',
-  'set7'
-]
-
-export const zipfiles = [
+/**
+ * Reeturns a list of set bundles for downloading.
+ * @see https://developer.riotgames.com/docs/lor#data-dragon_set-bundles
+ * @returns {ZipEntry[]} 
+ */
+export const getSetBundles = (): ZipEntry[] => ([
   {
     name: 'core-en_us',
     set: 'core',
@@ -60,23 +63,27 @@ export const zipfiles = [
   },
   {
     name: 'set6cde-lite-en_us',
+    set: 'set6cde',
     url: 'https://dd.b.pvp.net/latest/set6cde-lite-en_us.zip',
     full: 'https://dd.b.pvp.net/latest/set6cde-en_us.zip'
   },
   {
     name: 'set7-lite-en_us',
+    set: 'set7',
     url: 'https://dd.b.pvp.net/latest/set7-lite-en_us.zip',
     full: 'https://dd.b.pvp.net/latest/set7-en_us.zip'
   },
   {
     name: 'set7b-lite-en_us',
+    set: 'set7b',
     url: 'https://dd.b.pvp.net/latest/set7b-lite-en_us.zip',
     full: 'https://dd.b.pvp.net/latest/set7b-en_us.zip'
   },
   {
     name: 'set8-lite-en_us',
+    set: 'set8',
     url: 'https://dd.b.pvp.net/latest/set8-lite-en_us.zip',
     full: 'https://dd.b.pvp.net/latest/set8-en_us.zip'
   }
-  
-];
+]);
+
